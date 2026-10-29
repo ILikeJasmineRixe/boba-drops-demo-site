@@ -1,0 +1,15 @@
+html, body {
+    background-color: rgb(80, 161, 124);
+}
+
+#mainHeading {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#membershipPhoto {
+    width: 500px;
+    overflow: hidden;
+}
